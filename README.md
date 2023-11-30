@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and game making!
 - 🌱 I’m currently learning Ruby on Rails
 - 💞️ I’m looking to collaborate on open source projects and any opportunities available
-- 📫 How to reach me -> erikbolt11@gmail.com
+- 📫 How to reach me -> Message me on LinkedIn www.linkedin.com/in/erikrodriguez1
 
 <!---
 AirTechWick/AirTechWick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
